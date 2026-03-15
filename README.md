@@ -21,4 +21,4 @@ This project predicts car prices using Linear Regression.
 Linear Regression
 
 ## Result
-R² Score ≈ 0.88
+R² Score ≈ 0.91
